@@ -1,0 +1,11 @@
+SAN ANDREAS MOBILE DATA COMPUTER SYSTEM
+
+This is a software project meant to create a mock Mobile Data Computer system for use in GTA V roleplay policing scenarios.
+
+It will probably be more of a logkeeping software than a real MDC simulation, but nonetheless, it will have capabilities of 
+running vehicle tags and persons, creating, editing and storing calls, as well as other features that I haven't quite 
+planned yet. The first stage of creating this software will be its NCIC functionality, which will run people/tags and store
+them inside some sort of database. 
+
+The plans for this software can be viewed at:
+https://docs.google.com/document/d/1YoL_yZZBpsKYOXuBdOq8jgF-uonfe_hqar-oKftSoCI/
